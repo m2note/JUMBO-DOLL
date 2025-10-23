@@ -1,0 +1,5 @@
+{
+  "name": "Jumbo Doll Promoter",
+  "description": "An AI-powered tool to generate promotional images for jumbo dolls. Upload a photo of a model and a doll to create realistic images of the model hugging the doll in various poses.",
+  "requestFramePermissions": []
+}
